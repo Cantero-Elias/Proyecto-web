@@ -1,0 +1,38 @@
+.nav-op{
+	color: #111;
+	position: relative;
+	top: 5px;
+}
+
+#link:hover{
+	background-color: #0005;
+	color: #fff;
+}
+
+#link{
+	margin-left: 25px;
+}
+body{
+	background-color: #2878F0;
+}
+
+#integrantes{
+	background-color: #fff;
+	width: 100vw;
+	left: 0;
+	margin-top: 10px;
+	position: absolute;
+}
+.section-contenedor{
+	margin-top: 5vh;
+}
+
+nav{
+	margin-bottom: 10px;
+}
+
+.imagenes{
+	background-color: #1115;
+	padding: 10px 0px;
+	box-shadow: 0px 0px 10px #1115;
+}
